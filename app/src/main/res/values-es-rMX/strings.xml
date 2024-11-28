@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de vida</string>
+    <string name="ingresar">Selecciona tu fecha de nacimiento.</string>
+    <string name="descripcionImagen">Imagen representando la calculadora de vida</string>
+    <string name="error_select_date">Por favor, selecciona una fecha de nacimiento.</string>
+    <string name="descripcionFecha">Seleccionar...</string>
+    <string name="Text3">Elige una opcion. </string>
+    <string name="Text4"></string>
+    <string name="Botoncalcular">Calcular</string>
+    <string-array name="opciones">
+        <item>Años</item>
+        <item>Meses</item>
+        <item>Días</item>
+    </string-array>
+</resources>

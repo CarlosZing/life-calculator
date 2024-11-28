@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="boton1">#DA7A7A</color>
+    <color name="textTitle">#B0B0B0</color>
+
+    <!-- Color para los subtítulos (gris claro) -->
+    <color name="textSubtitle">#CCCCCC</color>
+</resources>

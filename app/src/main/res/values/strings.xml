@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Life Calculator</string>
+    <string name="ingresar">Select your birthdate.</string>
+    <string name="descripcionImagen">Image represent the life calculator</string>
+    <string name="descripcionFecha">Select...</string>
+    <string name="error_select_date">Please select a birth date.</string>
+    <string name="Text3">Choose an option. </string>
+    <string name="Text4"></string>
+    <string name="Botoncalcular">Calculate</string>
+
+    <string-array name="opciones">
+        <item>Years</item>
+        <item>Months</item>
+        <item>Days</item>
+    </string-array>
+</resources>
